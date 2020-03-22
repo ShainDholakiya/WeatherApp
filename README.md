@@ -21,7 +21,7 @@ This is a dark-mode enabled weather app. You'll be able to check the weather for
 
 ## API Used
 
-* Open Weather Map(https://openweathermap.org/api)
+* [Open Weather Map](https://openweathermap.org/api)
 
 
 ### Condition Codes
