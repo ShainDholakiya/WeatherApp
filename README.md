@@ -1,10 +1,10 @@
 #  Clima
 
-## What this app does
+## Description
 
 This is a dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.
 
-## What I learned
+## What I Learned
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
@@ -18,6 +18,11 @@ This is a dark-mode enabled weather app. You'll be able to check the weather for
 * Parse JSON with the native Encodable and Decodable protocols. 
 * How to use Grand Central Dispatch to fetch the main thread.
 * How to use Core Location to get the current location from the phone GPS. 
+
+## API Used
+
+* Open Weather Map [https://openweathermap.org/api] 
+
 
 ### Condition Codes
 ```
