@@ -19,7 +19,7 @@ This is a dark-mode enabled weather app. You'll be able to check the weather for
 * How to use Grand Central Dispatch to fetch the main thread.
 * How to use Core Location to get the current location from the phone GPS. 
 
-## API Used
+### API Used
 
 * [Open Weather Map](https://openweathermap.org/api)
 
